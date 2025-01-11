@@ -4,3 +4,5 @@
 		2) Take 14, 12, 11, 10, 9, 7, and assign them.
 2) <abbr title="Page 7">Pick a Background</abbr> for your character or leave it to the dice with the [following table](BackgroundRollTable.png), there is no mechanical advantage for rolling over picking.
 3) <abbr title="Page 14">Pick your Contact(s)</abbr>, you generate either 2 Acquaintances or 1 friend via the tables on pages 14 and 15
+4) Pick your Edges
+	1) Most players will get 2, however if your net attribute modifiers are negative, you get a third
