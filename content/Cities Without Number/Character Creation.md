@@ -7,7 +7,7 @@
 4) Pick your Edges. <abbr title="Pages 16 and 17">Almost every PC picks two edges</abbr> at character creation, the exception to this rule is if your net total attribute modifiers are negative, in which case you get a third edge.
 5) Pick your Foci, this is similar to a starting class in Pathfinder, where it comes with some starting abilities. Don't think of classes like a set progression track as its much more free-form than in pf2e.
 6) Roll for your hit points, and determine your attack bonus and saves. Unless you took the 'Hard to Kill' Edge, this will be 1d6. You get an additional 1d6 every level. The bonuses and saves are all listed on page 24.
-7) Choose your starting gear. You begin with \$500 of general gear, and 1 single item worth no more than \$1000, this could be a rifle for a hitman or a scrap cyberdeck for a hacker, for example. If you want a basic set up that is around or above the total, there are several options available on page 25.
+7) Choose your starting gear. You begin with \$500 of general gear, and 1 single item worth no more than $1000, this could be a rifle for a hitman or a scrap cyberdeck for a hacker, for example. If you want a basic set up that is around or above the total, there are several options available on page 25.
 8) Pick a Free Bonus Skill. You can pick one skill of your choice to gain at level-0, or at level-1 if you already have it at level-0.
 9) Pick your starting languages. You begin fluent in the city's most common language and the native language of your particular ethnic enclave. You also have fluency in additional languages based on your Connect and Know skill levels. Level-0 grants one more language and Level-1 grants two.
 10) Pick your name, goal and ties.
