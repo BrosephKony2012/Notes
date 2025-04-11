@@ -1,2 +1,2 @@
 
-This is the Imperial navy, space ships and shit. It doesn't have to purely be aboard a ship because one of the options is the commander of a voidport.
+This is the Imperial navy, space ships and shit. It doesn't have to purely be aboard a ship because one of the options is the commander of a voidport. It has to be said that ships in the imperium are truly vast, with the relatively smallest of them having tens of thousands of crewmembers. If you guys want to play a campaign mostly on board a ship, this is the option, if you'd rather have a patron that *has* a ship, Rogue Trader Dynasty or Inquisition might be more up your alley
