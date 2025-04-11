@@ -1,0 +1,1 @@
+Da church, you will either work for an Arch-Confessor (A zealous priest that hunts for heresy within the imperium) or a Canoness, a ranking commander amongst the Adepta Sororitas, a military order of women within the Adeptus Ministorum, they principally commnand Sisters of Battle though others often fall under her sway. 
