@@ -1,3 +1,0 @@
-Imagine working for the DMV but you actually have to do your job.
-
-The Adeptus Administratum in broad strokes is in charge of collecting surplus resources from worlds and distributing them as needed to industrial worlds to supply the war effort. They process the titanic mountains of data that constantly pours forth from the many worlds in the Emperor's domain. Their work is enacted by an army of clerks, officials and functionaries that generally move at a glacial pace.

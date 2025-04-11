@@ -1,2 +1,0 @@
->[!question]- Click this to learn more about the Infractionist
-> <abbr title = "They opened the image, rattle em boys"> ![250](https://preview.redd.it/smtlkv1z1in31.png?auto=webp&s=73919605daf149846c52e7d470a3728f6eebf89e) </abbr> Infractionists are the criminal elements of the Imperium, although this patron category also includes the head of a merchant guild within the imperium.
