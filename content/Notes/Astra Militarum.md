@@ -1,0 +1,1 @@
+Your patron would be a member of the Astra Militarum, commonly known as the Imperial Guard, the largest known fighting force in the galaxy. It consists of innumerable infantry, fighting vehicles and specialists spread across regiments drawn from nearly every world in the Imperium

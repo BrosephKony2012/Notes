@@ -1,1 +1,0 @@
-More of a wildcard option I wanted to throw in, similar system to black crusade and IM rolling wise, but its fantasy so you will feel less like a fish out of water as a player.
